@@ -24,7 +24,7 @@ public class SecurityGate {
         System.out.println("Processing Passenger: "+ passengerName);
         System.out.println("Checking baggage weight: "+ passengerbaggageweight);
 
-        System.out.println("passenger: "+ passengerName +"is allowed to board the plane: "+ passengerhasboardingpass);
+        System.out.println("passenger: "+ passengerName +" is allowed to board the plane! "+ passengerhasboardingpass);
 
     }
 }
