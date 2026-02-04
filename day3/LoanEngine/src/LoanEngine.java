@@ -25,6 +25,5 @@ public class LoanEngine {
         System.out.println("Available offers"+ loanOffers.size());
 
         System.out.println("Max loan ID possible"+Integer.MAX_VALUE);
-
     }
 }
